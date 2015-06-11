@@ -1,0 +1,30 @@
+[
+    {
+        "name": "AcadGild",
+        "url": "http://acadgild.com/",
+        "imageurl": "http://blog.acadgild.com/wp-content/uploads/2014/08/Logo-Black.png",
+        "online": "Yes",
+        "languages": "android, Front End, Or Full stack development",
+        "price": 749,
+        "founded": 2014,
+        "financing": "-",
+        "experiencelvl": "-",
+        "classsize": 20,
+        "reimbursement": "-",
+        "housing": "No"
+    },
+    {
+        "name": "Ace Hacker Academy",
+        "url": "http://www.acehacker.com/",
+        "imageurl": "http://blog.acadgild.com/wp-content/uploads/2014/08/Logo-Black.png",
+        "online": "-",
+        "languages": "Javascript",
+        "price": "313 INR per hour",
+        "founded": 2013,
+        "financing": "-",
+        "experiencelvl": "-",
+        "classsize": "-",
+        "reimbursement": "-",
+        "housing": "No"
+    }
+]
